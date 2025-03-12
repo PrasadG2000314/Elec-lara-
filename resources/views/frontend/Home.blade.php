@@ -24,7 +24,6 @@
         <!-- Carousel Start -->
         <div class="header-carousel owl-carousel overflow-hidden">
           @include('frontend.Home.slider')
-
         </div>
         <!-- Carousel End -->
 
